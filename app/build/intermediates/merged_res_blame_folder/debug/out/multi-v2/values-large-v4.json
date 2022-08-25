@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/saifi369/AndroidStudioProjects/TwoWayDataBinding/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "outputFile": "C:\\Users\\UmangC\\AndroidProjects\\DataBindingProjects\\TwoWayDataBinding\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "/Users/saifi369/.gradle/caches/transforms-2/files-2.1/7bf486935e2cf6581998971bedac1c6d/appcompat-1.2.0/res/values-large-v4/values-large-v4.xml",
+                    "source": "C:\\Users\\UmangC\\.gradle\\caches\\transforms-2\\files-2.1\\7bf486935e2cf6581998971bedac1c6d\\appcompat-1.2.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/saifi369/.gradle/caches/transforms-2/files-2.1/7c7475baa7a188b42262bfe047bfac4b/material-1.2.1/res/values-large-v4/values-large-v4.xml",
+                    "source": "C:\\Users\\UmangC\\.gradle\\caches\\transforms-2\\files-2.1\\7c7475baa7a188b42262bfe047bfac4b\\material-1.2.1\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
